@@ -1,5 +1,7 @@
+import { combineReducers } from 'redux'
 import cartData from './Reducer'
+import { productList } from './Product/ProductActions'
 
-const rootReducer = () => ({cartData})
 
-export default rootReducer
+export default combineReducers({productList , cartData})
+
