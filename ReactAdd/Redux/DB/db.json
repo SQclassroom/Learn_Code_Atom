@@ -1,11 +1,11 @@
 {
-     "product":[
+     "products":[
           {
                "id":1,
                "name": "iphone",
                "color":"black",
                "price":50000,
-               "catagory":"mobile", 
+               "category":"mobile", 
                "brand":"apple",
                "image":"https://m.media-amazon.com/images/I/31VjlrbE3bL._SY445_SX342_QL70_FMwebp_.jpg"
           },
@@ -14,7 +14,7 @@
                "name": "T-shirt",
                "color":"black",
                "price":1000,
-               "catagory":"cloth", 
+               "category":"cloth", 
                "brand":"Uspolo",
                "image":"https://m.media-amazon.com/images/I/811zIgbmxIL._UX466_.jpg"
           },
@@ -23,7 +23,7 @@
                "name": "Apple",
                "color":"red",
                "price":50,
-               "catagory":"fruit", 
+               "category":"fruit", 
                "brand":"Cameo",
                "image":"https://m.media-amazon.com/images/I/410Rp7P44IL._SX300_SY300_QL70_FMwebp_.jpg"
           },
@@ -32,7 +32,7 @@
                "name": "Watch",
                "color":"black",
                "price":2000,
-               "catagory":"watch", 
+               "category":"watch", 
                "brand":"noise",
                "image":"https://m.media-amazon.com/images/I/41Peg4pz7fL._SX300_SY300_QL70_FMwebp_.jpg"
           }
