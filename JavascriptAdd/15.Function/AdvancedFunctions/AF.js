@@ -6,7 +6,9 @@
     // // object definition
     // const personName = {
     //     firstName: "Taylor",
+    
     //     lastName: "Jackson",
+           
     // };
     
     // // function definition
