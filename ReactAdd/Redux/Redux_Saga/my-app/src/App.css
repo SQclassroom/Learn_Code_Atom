@@ -48,7 +48,7 @@
   margin: 25px;
   position: relative;
 }
-span{
+.length{
   position: absolute;
   top:-10px;
   right:-10px;
@@ -66,5 +66,49 @@ svg{
 .product-container{
   display: flex;
   flex-wrap: wrap;
+}
+
+.logo{
+  float: left;
+  color:white;
+  margin: 10px;
+}
+.cartPage{
+  display: flex;
+  padding: 20px;
+}
+.cartPage table td{
+  border:1px solid black;
+}
+
+.cartPage table{
+  flex: 0 0 70%;
+  border-collapse: collapse;
+}
+
+.price-details{
+  position: absolute;
+  width: 300px;
+  margin:auto 50px;
+}
+
+.price-details div{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom:1px solid black;
+}
+
+.search-box{
+  float: left;
+  display: flex;
+  align-items: center;
+  height: 100%;
+  margin-left:50px;
+}
+
+.search-box input{
+  padding: 8px;
+  width: 600px;
 }
 
