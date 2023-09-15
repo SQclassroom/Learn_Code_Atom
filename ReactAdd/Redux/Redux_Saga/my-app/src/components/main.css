@@ -1,0 +1,15 @@
+.product-container{
+     display: flex;
+     justify-content: space-around;
+}
+.product-item{
+     max-width: 300px;
+     border:2px solid black;  
+     margin: 5px;
+     padding: 5px;
+}
+.image-product{
+     height: 250px;
+     max-width: 250px;
+     object-fit: cover;
+}

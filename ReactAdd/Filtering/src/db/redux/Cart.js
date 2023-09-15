@@ -28,8 +28,8 @@ function Cart() {
           {
             cartData.map((item) =>
               <tr key={item.id}>
-                <td>{item.title}</td>
-                <td>{item.discription}</td>
+                <td>{item.name}</td>
+                <td>{item.color}</td>
                 <td>{item.price}</td>
                 <td>{item.brand}</td>
                 <td>{item.category}</td>

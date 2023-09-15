@@ -9,7 +9,7 @@ const Header = () => {
             <Link to="/">
                 <h1 className='logo'>E-comm</h1>
             </Link>
-            <Link to="/cart">
+            <Link to="/">
                 <div className='search-box'>
                     <input type="text" placeholder='search product' />
                 </div>
